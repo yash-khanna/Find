@@ -45,7 +45,7 @@ console.log("Printiing head2", head2);
 var timerId;
 head2.addEventListener("click", function () {
     console.log("Btton Clck");
-    timeLeft = 2;
+    timeLeft = 12;
     timerId = setInterval(timer1, 1000);
 });
 

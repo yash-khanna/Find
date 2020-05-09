@@ -41,7 +41,7 @@ var timerId;
 
 head2.addEventListener("click", function () {
     console.log("Btton Clck");
-    timeLeft = 5;
+    timeLeft = 21;
     timerId = setInterval(timer1, 1000);
 });
 
